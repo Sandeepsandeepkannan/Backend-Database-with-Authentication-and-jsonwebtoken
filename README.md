@@ -1,0 +1,4 @@
+-Backend  using node.js , express.js and connecting it to  database mongodb  
+-Adding authentication middlewares in the backend using bcrypt library
+-Using jsonwebtoken  to generate token for signing in .
+-Input validation using zod library
